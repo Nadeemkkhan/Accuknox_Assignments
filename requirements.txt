@@ -1,0 +1,6 @@
+python
+pip
+requests
+pandas
+matplotlib
+flask
